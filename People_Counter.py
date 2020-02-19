@@ -37,7 +37,7 @@ def MAE():
 if __name__ == "__main__":
 
     # load video from dataset:
-    video = cv2.VideoCapture("dataset/video10.mp4")
+    video = cv2.VideoCapture("dataset/video1.mp4")
     startingFrame = None
     while video:
         (read, frame) = video.read()
