@@ -1,4 +1,4 @@
-# SC-Predefinisani_Projekat_3
+# Soft computing - People Counter
 
 Cilj programa je da na osnovu video zapisa detektuje i prebroji sve ljude koji su se u nekom trenutku nasli na platou.
 Projekat je realizovan na Python 3.6 verziji.
